@@ -17,7 +17,9 @@ print('Hello, world!') # The text hello world is an argument
 print('hello',',', 'world','!')   #takes multiple arguments
 print(len('Hello, world!'))#takes only one arguments
 
+#printing values stored in variables
 print('first name:', first_name)
 print('firstname length:', len(first_name))
 print('last name:', last_name)
 print('lastname length:', len(last_name))
+print("Country: ", country)
