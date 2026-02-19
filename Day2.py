@@ -13,5 +13,6 @@ person_info = {
    'city':'Nairobi'
    }
 
-print('Hello, world') # The text hello world is an argument
-   
+print('Hello, world!') # The text hello world is an argument
+print('hello',',', 'world','!')   #takes multiple arguments
+print(len('Hello, world!'))#takes only one arguments
