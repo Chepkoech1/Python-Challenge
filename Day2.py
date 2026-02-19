@@ -12,3 +12,6 @@ person_info = {
    'country':'Kenya',
    'city':'Nairobi'
    }
+
+   print('Hello, world')#The text hello world is an argument
+   
